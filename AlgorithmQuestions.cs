@@ -1,4 +1,4 @@
-﻿// Author: Nick Eekhof
+// Author: Nick Eekhof
 // Description: This class implements various algorithms to solve the problems presented in Assignment 2
 
 using System;
@@ -94,7 +94,7 @@ public static class MainClass
                 return current;
             else
             {
-                // Move up one, then check
+                // Move up one, then analyze
                 current = arr[2];
                 next = arr[3];
                 prev = arr[1];
