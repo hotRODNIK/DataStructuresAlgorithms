@@ -1,7 +1,5 @@
 ﻿// Author: Nick Eekhof
 // Description: This class implements a simple hash table using a (very bad) hashing algorithm
-// In my defense, I haven't had the opportunity to take Mathematical Cryptography, or figure out how to make a strong 
-// hashing algorithm. Been too busy working on Sri's assignments. 
 
 using System;
 public class HashTable
