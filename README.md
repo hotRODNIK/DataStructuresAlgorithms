@@ -1,2 +1,2 @@
 # DataStructuresAlgorithms
-Will add more data structures and algorithms as I build them
+These are some various data structures and algorithms I implemented as part of COIS 2020H.
